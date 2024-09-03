@@ -162,7 +162,7 @@ h2 {
 }
  
 div.video {
-    margin: 0px 0px 20px 0px;
+    margin: 0px -15px 20px -15px;
     padding: 20px;
     padding-bottom: 59%;
     position: relative;
