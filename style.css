@@ -85,11 +85,11 @@ nav > a:hover {
 
 main {
     margin: auto;
-    min-width: 300px;
+    min-width: 600px;
     max-width: 1000px;
     padding-top: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.426);
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 main p {
